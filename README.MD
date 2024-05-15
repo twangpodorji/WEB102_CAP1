@@ -1,6 +1,6 @@
 # Product Management Server
 
-This project is a simple Node.js server application designed to manage a list of products through HTTP RESTful APIs. It allows for creating, reading, updating, and deleting products, with each product represented as a JSON object in a `product.json` file.
+This project is a simple Node.js server application designed to manage a list of products through HTTP RESTful APIs. It allows for creating, reading, updating, and deleting products, with each product represented as a JSON object in a `products.json` file.
 
 ## Features
 
