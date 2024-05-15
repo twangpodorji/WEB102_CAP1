@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3",
+    "name": "kaara",
+    "description": "Belt for Bhutanese national dress",
+    "price": 21.99
+  },
+  {
+    "id": "4",
+    "name": "kira",
+    "description": "Bhutanese national dress for women",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "gho",
+    "description": "Bhutanese national dress for man",
+    "price": 94.99
+  },
+  {
+    "id": "1",
+    "name": "lagay",
+    "description": "Bhutanese national dress for man",
+    "price": 30.99
+  },
+  {
+    "id": "5",
+    "name": "Tego",
+    "description": "Bhutanese national dress for women",
+    "price": 89.99
+  }
+]
